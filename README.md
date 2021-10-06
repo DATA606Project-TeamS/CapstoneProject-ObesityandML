@@ -39,7 +39,7 @@ Demographics data, examination data, laboratory data, & questionnaire data inclu
 12.4MB - XPT. files / Zipped data file:1.4 MB<br/>
 
 ## Analysis
-- Using heatmap to check the variables with numerical values. Besides weight and height, we found that Age also has a strong correlation to BMI.<br/>
+- Heatmap of risk factors with numerical values. Besides weight and height, we found that Age also has a strong correlation to BMI.<br/>
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/Heatmap.png)
 #### BMI guideline from CDC:<br/>
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%20guide.png)<br/>
