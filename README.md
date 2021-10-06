@@ -42,12 +42,10 @@ Demographics data, examination data, laboratory data, & questionnaire data inclu
 Using heatmap to check the variables with numerical values. Besides weight and height, we found that Age also has a strong correlation to BMI.<br/>
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/Heatmap.png)
 
-Dataset contains infants, children, teenagers, adults, and seniors. <br />
-Added a new column and separated respondents to different age groups.<br />
-Age groups: 0-3, 3-12, 13-19, 20-60, 60+ <br />
+We found that our dataset contains infants, children, teenagers, adults, and seniors. Thus, we added a new column and separated respondents to different age groups.<br /> Age groups: 0-3, 3-12, 13-19, 20-60, 60+ <br />
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/Age%20groups.png)
 
-
+- Scatterplot of BMI and Age groups
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%26AgeGroups.png)
 
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%26Gender-boxplot.png)
