@@ -39,13 +39,22 @@ Demographics data, examination data, laboratory data, & questionnaire data inclu
 12.4MB - XPT. files / Zipped data file:1.4 MB<br/>
 
 ## Analysis
+Using heatmap to check the variables with numerical values. Besides weight and height, we found that Age also has a strong correlation to BMI.<br/>
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/Heatmap.png)
-![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%20dist.png)
+
+Dataset contains infants, children, teenagers, adults, and seniors. <br />
+Added a new column and separated respondents to different age groups.<br />
+Age groups: 0-3, 3-12, 13-19, 20-60, 60+ <br />
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/Age%20groups.png)
+
+
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%26AgeGroups.png)
+
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%26Gender-boxplot.png)
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%26Race-boxplot.png)
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%20guide.png)
+![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%26EducationLevel.png)
+![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%26Depression.png)
 
 ## Datasets Used
 - https://wwwn.cdc.gov/nchs/nhanes/search/datapage.aspx?Component=Demographics&Cycle=2017-2020
