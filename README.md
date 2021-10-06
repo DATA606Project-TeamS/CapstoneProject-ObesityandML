@@ -38,4 +38,8 @@ Demographics data, examination data, laboratory data, & questionnaire data inclu
 - Dataset size:<br/>
 12.4MB - XPT. files / Zipped data file:1.4 MB<br/>
 
-## 
+## Analysis
+![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/Histogram.png)
+![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/Heatmap.png)
+![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%20dist.png)
+![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/Age%20groups.png)
