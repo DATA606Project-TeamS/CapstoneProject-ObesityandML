@@ -43,15 +43,19 @@ Demographics data, examination data, laboratory data, & questionnaire data inclu
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/Heatmap.png)
 #### BMI guideline from CDC:<br/>
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%20guide.png)<br/>
-We found that our dataset contains infants, children, teenagers, adults, and seniors. Thus, we added a new column and separated respondents to different age groups.<br /> Age groups: 0-3, 3-12, 13-19, 20-60, 60+ <br />
+- We found that our dataset contains infants, children, teenagers, adults, and seniors. Thus, we added a new column and separated respondents to different age groups.<br /> Age groups: 0-3, 3-12, 13-19, 20-60, 60+ <br />
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/Age%20groups.png)<br/>
-#### Box plot of BMI and Gender:<br/> The overall female BMI is slightly higher than male BMI in our dataset.<br/>
+#### Box plot of BMI and Gender:<br/> 
+The overall female BMI is slightly higher than male BMI in our dataset.<br/>
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%26Gender-boxplot.png)
-#### Box plot of BMI and Race:<br/> We noticed that None-Hispanic Asians have lower BMI.<br/>
+#### Box plot of BMI and Race:<br/> 
+We noticed that None-Hispanic Asians have lower BMI.<br/>
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%26Race-boxplot.png)
-#### Box plot of BMI and Education level:<br/> People with college degree or above tend to have lower BMI.<br/>
+#### Box plot of BMI and Education level:<br/> 
+People with college degree or above tend to have lower BMI.<br/>
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%26EducationLevel.png)
-#### Bar chart of BMI and Depression:<br/> Respondents with depression related experiences tend to have higher BMI compared to others.<br/>
+#### Bar chart of BMI and Depression:<br/> 
+Respondents with depression related experiences tend to have higher BMI compared to others.<br/>
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%26Depression.png)
 
 ## Datasets Used
