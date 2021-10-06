@@ -24,17 +24,22 @@ Our project aims to analyze the relationship between obesity/overweight and diff
 - Classification and Regression models (e.g Random Forest, Support Vector Machines (SVM), Logistic Regression, and Decision Trees)<br/>
 
 ## Literature/Industry research review
-1. The Technology and Health Departments of the University of Agder (Norway) identified potential risk factors associated with obesity/overweight using machine learning methods such as Support Vector Machines (SVM), Decision Trees, and Logistic regression models. (Chatterjee et al, 2021)
-2. The University of Bologna (Italy) used ML techniques to test for the predictive effects of emotional and affective variables over BMI values. (Delnevo et al, 2021)
-3. The Daffodil International University in Dhaka (Bangladesh) applied 9 prominent ML algorithms to predict the risk of obesity on the data collected from many varieties of people of different ages suffering from obesity and non-obesity. (Ferdowsy F. et al, 2021)
+- The Technology and Health Departments of the University of Agder (Norway) identified potential risk factors associated with obesity/overweight using machine learning methods such as Support Vector Machines (SVM), Decision Trees, and Logistic regression models. (Chatterjee et al, 2021)
+- The University of Bologna (Italy) used ML techniques to test for the predictive effects of emotional and affective variables over BMI values. (Delnevo et al, 2021)
+- The Daffodil International University in Dhaka (Bangladesh) applied 9 prominent ML algorithms to predict the risk of obesity on the data collected from many varieties of people of different ages suffering from obesity and non-obesity. (Ferdowsy F. et al, 2021)
 
 
 
 ## Dataset Scope
-Source: <br/>
+- Source: <br/>
 CDC - National Center for Health Statistics. National Health and Nutrition Examination Survey  March 2017 to 2020 Pre-pandemic<br/>
-Data type (numerical & categorical): <br/>
+NHANES is a program of studies designed to assess the health and nutritional status of adults and children in the United States. 
+The survey is unique in that it combines interviews and physical examinations. <br/>
+
+- Data type (numerical & categorical): <br/>
 Demographics data, examination data, laboratory data, & questionnaire data including; Respondent sequence number, Gender, Race, Country of birth, Education level, Ratio of family income to poverty, Body measures(Weight, Height, BMI, BMI category), Diabetes status, Physical activity(Moderate work activity, recreational activity), Mental health(Depressed, Poor appetite or overeating), and Sleep disorders(Sleep hours on weekdays and weekends). 
 <br/>
-Dataset size:<br/>
+- Dataset size:<br/>
 12.4MB - XPT. files / Zipped data file:1.4 MB<br/>
+
+## 
