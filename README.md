@@ -35,10 +35,8 @@ Our project aims to analyze the relationship between obesity/overweight and diff
 CDC - National Center for Health Statistics. National Health and Nutrition Examination Survey  March 2017 to 2020 Pre-pandemic<br/>
 NHANES is a program of studies designed to assess the health and nutritional status of adults and children in the United States. 
 The survey is unique in that it combines interviews and physical examinations. <br/>
-
 - Data type (numerical & categorical): <br/>
-Demographics data, examination data, laboratory data, & questionnaire data including; Respondent sequence number, Gender, Race, Country of birth, Education level, Ratio of family income to poverty, Body measures(Weight, Height, BMI, BMI category), Diabetes status, Physical activity(Moderate work activity, recreational activity), Mental health(Depressed, Poor appetite or overeating), and Sleep disorders(Sleep hours on weekdays and weekends). 
-<br/>
+Demographics data, examination data, laboratory data, & questionnaire data including; Respondent sequence number, Gender, Race, Country of birth, Education level, Ratio of family income to poverty, Body measures(Weight, Height, BMI, BMI category), Diabetes status, Physical activity(Moderate work activity, recreational activity), Mental health(Depressed, Poor appetite or overeating), and Sleep disorders(Sleep hours on weekdays and weekends). <br/>
 - Dataset size:<br/>
 12.4MB - XPT. files / Zipped data file:1.4 MB<br/>
 
