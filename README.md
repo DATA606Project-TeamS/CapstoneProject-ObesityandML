@@ -39,7 +39,9 @@ Demographics data, examination data, laboratory data, & questionnaire data inclu
 12.4MB - XPT. files / Zipped data file:1.4 MB<br/>
 
 ## Analysis
-![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/Histogram.png)
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/Heatmap.png)
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%20dist.png)
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/Age%20groups.png)
+![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%26AgeGroups.png)
+![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%26Gender-boxplot.png)
+![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%26Race-boxplot.png)
