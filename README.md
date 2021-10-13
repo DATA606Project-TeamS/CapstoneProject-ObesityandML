@@ -75,3 +75,14 @@ Demographics data, examination data, laboratory data, & questionnaire data inclu
 - https://wwwn.cdc.gov/nchs/nhanes/search/datapage.aspx?Component=Demographics&Cycle=2017-2020
 - https://wwwn.cdc.gov/nchs/nhanes/search/datapage.aspx?Component=Examination&Cycle=2017-2020
 - https://wwwn.cdc.gov/nchs/nhanes/search/datapage.aspx?Component=Questionnaire&Cycle=2017-2020
+- Chatterjee A, Gerdes MW, Martinez SG. Identification of Risk Factors Associated with Obesity and Overweight—A Machine Learning Overview. Sensors. 2020; 20(9):2734. https://doi.org/10.3390/s20092734 
+- Wilfley, D. E., Hayes, J. F., Balantekin, K. N., Van Buren, D. J., & Epstein, L. H. (2018). Behavioral interventions for obesity in children and adults: Evidence base, novel approaches, and translation into practice. American Psychologist, 73(8), 981–993. https://doi-org.proxy-bc.researchport.umd.edu/10.1037/amp0000293
+- CDC. (2021, March 1). Why It Matters. Centers for Disease Control and Prevention. https://www.cdc.gov/obesity/about-obesity/why-it-matters.html Centers for Disease Control and Prevention. (2021, August 27). About adult BMI. Centers for Disease Control and Prevention.   
+- Retrieved September 29, 2021, from https://www.cdc.gov/healthyweight/assessing/bmi/adult_bmi/index.html. 
+
+- Ferdowsy, F.,Rahi, K. S. A., Jabiullah, Md. I., Habib, Md. T. (2021, August 5). A Machine Learning approach for obesity risk prediction. Current Research in Behavioral Science, 2, 2021. https://doi.org/10.1016/j.crbeha.2021.100053 
+
+- Delnevo, G., Mancini, G., Roccetti, M., Salomoni, P., Trombini, E., & Andrei, F. (2021). The Prediction of Body Mass Index from Negative Affectivity through Machine Learning: A Confirmatory Study. Sensors, 21(7). https://doi.org/10.3390/s21072361
+
+- Pillai , R., Saravanan, S., &amp; Shyam, D. G. K. (2020, December 8). The BMI and mental Illness NEXUS: A machine learning approach. IEEE Xplore. Retrieved September 29, 2021, from https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=9277446.
+
