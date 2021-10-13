@@ -55,7 +55,8 @@ Demographics data, examination data, laboratory data, & questionnaire data inclu
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/Age%20groups.png)<br/>
 #### Box plot of BMI Distribution by Age Groups:<br/>
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%20by%20Age%20groups.png)
-- Age group 20-60 is the largest group among all the age groups. We decided to mainly focus on adults from 20-60 years old in the future analysis.<br/>
+- Since the visualizations showed that the age group of 20-60 contains the majority of the data, and education, income ratio, mental health, and other factors showed more resonable relation for adults. We decided focus on respondent from 20-60, and expand the project to childhood obesity/overweight and senior(60+) obesity/overweight in future studies.
+#### Box plot of BMI Distibution by Age Groups(20-60):<br/>
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%20from%2020-60.png)
 
 #### Box plot of BMI and Gender:<br/> 
@@ -71,7 +72,7 @@ Demographics data, examination data, laboratory data, & questionnaire data inclu
 - Respondents with depression related experiences tend to have higher BMI compared to others.<br/>
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%26Depression.png)
 
-- Since the visualizations showed that the age group of 20-60 contains the majority of the data, and education, income ratio, mental health, and other factors showed more resonable relation for adults. We decided focus on respondent from 20-60, and expand the project to childhood obesity/overweight and senior(60+) obesity/overweight in future studies.
+
 
 ## Datasets Used
 - https://wwwn.cdc.gov/nchs/nhanes/search/datapage.aspx?Component=Demographics&Cycle=2017-2020
