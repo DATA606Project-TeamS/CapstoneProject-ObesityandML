@@ -59,18 +59,22 @@ Demographics data, examination data, laboratory data, & questionnaire data inclu
 - Since the visualizations showed that the age group of 20-60 contains the majority of the data, and education, income ratio, mental health, and other factors showed more resonable relation for adults. We decided focus on respondent from 20-60, and expand the project to childhood obesity/overweight and senior(60+) obesity/overweight in future studies.
 #### Box plot of BMI Distibution by Age Groups(20-60):<br/>
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%20and%20Age%2020-60.png)
+- The box plot shows that adults in age range from 30-60 have higher BMI compared to adults in 20-29 age group. Adults in 40-49 have higher BMI compared to adults in 30-39 age group based on the median and upper quantiles.
 
 #### Box plot of Adult BMI and Gender:<br/> 
-- The overall adults female BMI is slightly higher than adults male BMI in our dataset.<br/>
+- The overall adults female BMI is higher than adults male BMI in our dataset. The median of adult female BMI is slightly higher than the median of adult male BMI, however, the overall range of adult female BMI is greater based on the plot. <br/>
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%20and%20Gender(Adults).png)
+
 #### Box plot of Adult BMI and Race:<br/> 
-- We noticed that None-Hispanic Asians Adults have lower BMI.<br/>
+- We noticed that None-Hispanic Asians Adults have significantly lower BMI compared to other races.<br/>
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%20and%20Race(Adults).png)
+
 #### Box plot of Adult BMI and Education level:<br/> 
-- People with college degree or above tend to have lower BMI.<br/>
+- Adults with college degree or above tend to have lower BMI compared to adults with other education levels.<br/>
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%20and%20Education%20level(Adults.).png)
+
 #### Bar chart of Adult BMI and Depression:<br/> 
-- Respondents with depression related experiences tend to have higher BMI compared to others.<br/>
+- Respondents with depression related experiences tend to have higher BMI compared to others. Adults claimed depressed or feel down for "More than half the days" shows higher BMI. <br/>
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%20and%20Depression(Adults).png)
 
 
