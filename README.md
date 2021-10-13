@@ -25,14 +25,10 @@ Our project aims to analyze the relationship between obesity/overweight and diff
 - The Technology and Health Departments of the University of Agder (Norway) identified potential risk factors associated with obesity/overweight using machine learning methods such as Support Vector Machines (SVM), Decision Trees, and Logistic regression models. (Chatterjee et al, 2021)<br/>
 - The Daffodil International University in Dhaka (Bangladesh) applied 9 prominent ML algorithms to predict the risk of obesity on the data collected from many varieties of people of different ages suffering from obesity and non-obesity. (Ferdowsy F. et al, 2021)<br/>
 - The University of Bologna (Italy) used ML techniques to test for the predictive effects of emotional and affective variables over BMI values. (Delnevo et al, 2021)<br/>
-Approach:<br/>
-Both classification and Regression models including K-Nearest neighbor, Classification and Regression Tree, support Vector Machine, Multi-Layer Perceptron, Ada boosting with decision tree, Gradient Boosting, Random Forest, LASSO (Least Absolute Shrinkage and Selection Operator), and Elastic Regression. <br/>
-Findings:<br/>
-Using affect-related variables it is possible to predict the BMI with a good level of accuracy and the psychological variable that had most impact on the predictive capabilities of the algorithms is Depression
+Approach: Both classification and Regression models including K-Nearest neighbor, Classification and Regression Tree, support Vector Machine, Multi-Layer Perceptron, Ada boosting with decision tree, Gradient Boosting, Random Forest, LASSO (Least Absolute Shrinkage and Selection Operator), and Elastic Regression. <br/>
+Findings: Using affect-related variables it is possible to predict the BMI with a good level of accuracy and the psychological variable that had most impact on the predictive capabilities of the algorithms is Depression
 The best performance was achieved by the LASSO and Elastic Net, with a MAE (mean absolute error) equal to 4.35 and the PCCs (Pearson correlation coefficient ) respectively of 0.81 and 0.80, indicating a strong correlation between predictions and real value.<br/>
-
-Limitations:<br/>
-Restricted number of subjects<br/>
+Limitations:Restricted number of subjects<br/>
 It did not employ newly collected data, thus making inferences limited<br/>
 Lack of other factors such as lifestyle habits<br/>
 
@@ -57,17 +53,20 @@ Demographics data, examination data, laboratory data, & questionnaire data inclu
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%20guide.png)<br/>
 - We found that our dataset contains infants, children, teenagers, adults, and seniors. Thus, we added a new column and separated respondents to different age groups.<br /> Age groups: 0-3, 3-12, 13-19, 20-60, 60+ <br />
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/Age%20groups.png)<br/>
+#### Box plot of BMI Distribution by Age Groups:<br/>
+- Age group 20-60 is the largest group among all the age groups. We decided to mainly focus on adults from 20-60 years old in the future analysis.<br/>
+![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%20by%20Age%20groups.png)
 #### Box plot of BMI and Gender:<br/> 
-The overall female BMI is slightly higher than male BMI in our dataset.<br/>
+- The overall female BMI is slightly higher than male BMI in our dataset.<br/>
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%26Gender-boxplot.png)
 #### Box plot of BMI and Race:<br/> 
-We noticed that None-Hispanic Asians have lower BMI.<br/>
+- We noticed that None-Hispanic Asians have lower BMI.<br/>
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%26Race-boxplot.png)
 #### Box plot of BMI and Education level:<br/> 
-People with college degree or above tend to have lower BMI.<br/>
+- People with college degree or above tend to have lower BMI.<br/>
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%26EducationLevel.png)
 #### Bar chart of BMI and Depression:<br/> 
-Respondents with depression related experiences tend to have higher BMI compared to others.<br/>
+- Respondents with depression related experiences tend to have higher BMI compared to others.<br/>
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%26Depression.png)
 
 ## Datasets Used
