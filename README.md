@@ -54,8 +54,10 @@ Demographics data, examination data, laboratory data, & questionnaire data inclu
 - We found that our dataset contains infants, children, teenagers, adults, and seniors. Thus, we added a new column and separated respondents to different age groups.<br /> Age groups: 0-3, 3-12, 13-19, 20-60, 60+ <br />
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/Age%20groups.png)<br/>
 #### Box plot of BMI Distribution by Age Groups:<br/>
-- Age group 20-60 is the largest group among all the age groups. We decided to mainly focus on adults from 20-60 years old in the future analysis.<br/>
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%20by%20Age%20groups.png)
+- Age group 20-60 is the largest group among all the age groups. We decided to mainly focus on adults from 20-60 years old in the future analysis.<br/>
+![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%20from%2020-60.png)
+
 #### Box plot of BMI and Gender:<br/> 
 - The overall female BMI is slightly higher than male BMI in our dataset.<br/>
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%26Gender-boxplot.png)
