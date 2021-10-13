@@ -22,9 +22,21 @@ Our project aims to analyze the relationship between obesity/overweight and diff
 - Classification and Regression models (e.g Random Forest, Support Vector Machines (SVM), Logistic Regression, and Decision Trees)<br/>
 
 ## Literature/Industry research review
-- The Technology and Health Departments of the University of Agder (Norway) identified potential risk factors associated with obesity/overweight using machine learning methods such as Support Vector Machines (SVM), Decision Trees, and Logistic regression models. (Chatterjee et al, 2021)
-- The University of Bologna (Italy) used ML techniques to test for the predictive effects of emotional and affective variables over BMI values. (Delnevo et al, 2021)
-- The Daffodil International University in Dhaka (Bangladesh) applied 9 prominent ML algorithms to predict the risk of obesity on the data collected from many varieties of people of different ages suffering from obesity and non-obesity. (Ferdowsy F. et al, 2021)
+- The Technology and Health Departments of the University of Agder (Norway) identified potential risk factors associated with obesity/overweight using machine learning methods such as Support Vector Machines (SVM), Decision Trees, and Logistic regression models. (Chatterjee et al, 2021)<br/>
+- The Daffodil International University in Dhaka (Bangladesh) applied 9 prominent ML algorithms to predict the risk of obesity on the data collected from many varieties of people of different ages suffering from obesity and non-obesity. (Ferdowsy F. et al, 2021)<br/>
+- The University of Bologna (Italy) used ML techniques to test for the predictive effects of emotional and affective variables over BMI values. (Delnevo et al, 2021)<br/>
+Approach:<br/>
+Both classification and Regression models including K-Nearest neighbor, Classification and Regression Tree, support Vector Machine, Multi-Layer Perceptron, Ada boosting with decision tree, Gradient Boosting, Random Forest, LASSO (Least Absolute Shrinkage and Selection Operator), and Elastic Regression. <br/>
+Findings:<br/>
+Using affect-related variables it is possible to predict the BMI with a good level of accuracy and the psychological variable that had most impact on the predictive capabilities of the algorithms is Depression
+The best performance was achieved by the LASSO and Elastic Net, with a MAE (mean absolute error) equal to 4.35 and the PCCs (Pearson correlation coefficient ) respectively of 0.81 and 0.80, indicating a strong correlation between predictions and real value.<br/>
+
+Limitations:<br/>
+Restricted number of subjects<br/>
+It did not employ newly collected data, thus making inferences limited<br/>
+Lack of other factors such as lifestyle habits<br/>
+
+
 
 
 
