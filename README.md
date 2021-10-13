@@ -69,6 +69,8 @@ Demographics data, examination data, laboratory data, & questionnaire data inclu
 - Respondents with depression related experiences tend to have higher BMI compared to others.<br/>
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%26Depression.png)
 
+- Since the visualizations showed that the age group of 20-60 contains the majority of the data, and education, income ratio, mental health, and other factors showed more resonable relation for adults. We decided focus on respondent from 20-60. And expend the project to childhood obesity/overweight and senior(60+) obesity/overweight later on.
+
 ## Datasets Used
 - https://wwwn.cdc.gov/nchs/nhanes/search/datapage.aspx?Component=Demographics&Cycle=2017-2020
 - https://wwwn.cdc.gov/nchs/nhanes/search/datapage.aspx?Component=Examination&Cycle=2017-2020
