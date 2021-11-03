@@ -81,16 +81,30 @@ Demographics data, examination data, laboratory data, & questionnaire data inclu
 - Respondents with depression related experiences tend to have higher BMI compared to others. Adults claimed depressed or feel down for "More than half the days" shows higher BMI. <br/>
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%20and%20Depression(Adults).png)
 
-
-## Phase II
-- In 5556 respondents from 20~60 years old, about 2400 respondents are in the obese level, about 1600 respondents are overweight.<br>
+#### Obesity level Plot:<br/>
+- In 5556 respondents from 20~60 years old, about 2400 respondents are in the obese level, about 1600 respondents are overweight.<br/>
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/Obesity%20distribution%20count.png%20.png)
 
+#### Heatmap without BMI and Weight
+- Obesity level is highly correlated with weight and BMI, the next two are Age and PoorAppetite/overeating.<br/>
+![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/download.png)
 
+## Data Preparation and Model Construction
+- Added a column for showing Obesity/overweight Level for each respondent.
+- Filtered out Weight and BMI from the dataset: Weight and BMI are highly correlated with obesity/overweight.
+- Normalizing data using mean-max transformation which scaling each variable to the range (0, 1). 
+- Split data to Training and Testing set.
+- For our modeling section, we used Random Forest, Logistic Regression Model and SVM to predict accuracy and feature importance of risk factors.
 
+- We decided to create a baseline classification model as a benchmark.
+    - A simple model that provides reasonable results on a task or a metric you would hope any model could beat. 
+    - Provide the required point of comparison when evaluating all other machine learning algorithms on your problem. 
+    - A benchmark is vital in evaluating whether a complex model is performing well, and enables us to address the accuracy/complexity tradeoff.
 
-
-
+After that, we use
+- Random Forest Model
+- Logistic Regression Model
+- SVM Model
 
 
 
