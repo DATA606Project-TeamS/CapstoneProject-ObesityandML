@@ -48,7 +48,9 @@ Demographics data, examination data, laboratory data, & questionnaire data inclu
 - Dataset size:<br/>
 12.4MB - XPT. files / Zipped data file:1.4 MB<br/>
 
-## Analysis
+## Phase I
+
+### Analysis
 - Heatmap of risk factors with numerical values. Besides weight and height, we found that Age also has a strong correlation to BMI.<br/>
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/Heatmap.png)
 #### BMI guideline from CDC:<br/>
@@ -78,6 +80,34 @@ Demographics data, examination data, laboratory data, & questionnaire data inclu
 #### Bar chart of Adult BMI and Depression:<br/> 
 - Respondents with depression related experiences tend to have higher BMI compared to others. Adults claimed depressed or feel down for "More than half the days" shows higher BMI. <br/>
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%20and%20Depression(Adults).png)
+
+
+## Phase II
+- In 5556 respondents from 20~60 years old, about 2400 respondents are in the obese level, about 1600 respondents are overweight.<br>
+![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/Obesity%20distribution%20count.png%20.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
