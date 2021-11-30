@@ -16,7 +16,7 @@ Our project aims to analyze the relationship between obesity/overweight and diff
 1. Which variables are risk factors related to obesity/overweight?<br/>
 2. What are the correlations between different risk factors and BMI?<br/>
     - Is mental health an important factor that correlates with obesity/overweight?<br/>
-3. Which machine learning model can classify and conduct regression of the dataset?<br/>
+3. Which machine learning model can accurately classify the dataset?<br/>
 
 ## Approach
 - Conduct EDA to find the relationship of different factors and produce visualizations. <br/>
@@ -78,11 +78,14 @@ Demographics data, examination data, laboratory data, & questionnaire data inclu
     - Provide the required point of comparison when evaluating all other machine learning algorithms on your problem. 
     - A benchmark is vital in evaluating whether a complex model is performing well, and enables us to address the accuracy/complexity tradeoff.
 
-After that, we use
-- Random Forest Model
+After that, we implemented
 - Logistic Regression Model
 - SVM Model
+- Decision Tree Model
+- Random Forest Model
+- XGBoost Model
 
+Results showed that XGBoost Model have the best accuracy compared to other models. 
 
 
 
