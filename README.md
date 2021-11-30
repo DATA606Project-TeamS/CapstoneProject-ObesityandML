@@ -48,7 +48,7 @@ Demographics data, examination data, laboratory data, & questionnaire data inclu
 - Dataset size:<br/>
 12.4MB - XPT. files / Zipped data file:1.4 MB<br/>
 
-### EDA 
+## EDA(in notebook) 
 ## Data Preparation and Model Construction
 - Added a column for showing Obesity/overweight Level for each respondent.
 - Filtered out Weight and BMI from the dataset: Weight and BMI are highly correlated with obesity/overweight.
