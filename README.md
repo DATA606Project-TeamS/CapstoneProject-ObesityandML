@@ -48,24 +48,7 @@ Demographics data, examination data, laboratory data, & questionnaire data inclu
 - Dataset size:<br/>
 12.4MB - XPT. files / Zipped data file:1.4 MB<br/>
 
-## Phase I
-
-### Analysis
-
-#### BMI guideline from CDC:<br/>
-![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/BMI%20guide.png)<br/>
-
-- We found that our dataset contains infants, children, teenagers, adults, and seniors. Thus, we added a new column and separated respondents to different age groups.<br /> Age groups: 0-3, 3-12, 13-19, 20-60, 60+ <br />
-![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/Age%20groups.png)<br/>
-
-#### Obesity level Plot:<br/>
-- In 5556 respondents from 20~60 years old, about 2400 respondents are in the obese level, about 1600 respondents are overweight.<br/>
-![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/Obesity%20distribution%20count.png%20.png)
-
-#### Heatmap without BMI and Weight
-- Obesity level is highly correlated with weight and BMI, the next two are Age and PoorAppetite/overeating.<br/>
-![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/download.png)
-
+### EDA 
 ## Data Preparation and Model Construction
 - Added a column for showing Obesity/overweight Level for each respondent.
 - Filtered out Weight and BMI from the dataset: Weight and BMI are highly correlated with obesity/overweight.
