@@ -69,26 +69,28 @@ After that, we implemented
 - Random Forest Model
 - XGBoost Model
 
+## Model Evaluation
 Results showed that XGBoost Model have the best accuracy compared to other models. 
 
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/Model%20evaluation.png)
 - Precision shows how much was correctly classified as positive out of all the positives. Recall of a classifier is the ratio between how much was correctly identified as positive to all the actual positives. Moreover, F1-score means the weighted average between precision and recall. Based on our research, F1-score is beneficial for imbalanced datasets. 
 
+### Precision Recall Curve
 - We also checked the precision-recall curve, and calculated the AUC score for each model:
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/precision-recall.png)
 - The results of model evaluation showed that the XGBoost model has the best performance in this project.
 - Although the accuracy score is not high, but it had improved siginificantly compared to the baseline model.
 
-- Feature Importance:
+## Feature Importance:
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/feature%20importance.png)
 - The top 6 risk factors are Height, Age, Race, Family income ratio, Sleep hours on weekdays, and Sleep hours on weekends.
 - In our literature review, we learned that depression can affect obesity levels. However, based on our analysis we can not say that mental health is highly affecting obesity level.
 
-- Limitations
+## Limitations
 Limited access to robust open source healthcare datasets due to US laws such as HIPAA (protects sensitive patient health information).
 The accuracy levels from our models were considerably low but higher than baseline model
 
-- Future Study  
+## Future Study  
 Apply Neural Network with Backpropagation in order to self learn and improve the accuracy while feeding in new data. 
 Find a better dataset to do in depth research and build prediction models for other relevant disease 
 Build a web interface/tool for disease prediction such as Diabetes
