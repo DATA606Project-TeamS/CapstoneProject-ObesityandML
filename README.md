@@ -81,8 +81,18 @@ Results showed that XGBoost Model have the best accuracy compared to other model
 
 - Feature Importance:
 ![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/feature%20importance.png)
-The top 6 risk factors are Height, Age, Race, Family income ratio, Sleep hours on weekdays, and Sleep hours on weekends.
-In our literature review, we learned that depression can affect obesity levels. However, based on our analysis we can not say that mental health is highly affecting obesity level.
+- The top 6 risk factors are Height, Age, Race, Family income ratio, Sleep hours on weekdays, and Sleep hours on weekends.
+- In our literature review, we learned that depression can affect obesity levels. However, based on our analysis we can not say that mental health is highly affecting obesity level.
+
+- Limitations
+Limited access to robust open source healthcare datasets due to US laws such as HIPAA (protects sensitive patient health information).
+The accuracy levels from our models were considerably low but higher than baseline model
+
+- Future Study  
+Apply Neural Network with Backpropagation in order to self learn and improve the accuracy while feeding in new data. 
+Find a better dataset to do in depth research and build prediction models for other relevant disease 
+Build a web interface/tool for disease prediction such as Diabetes
+
 
 
 
