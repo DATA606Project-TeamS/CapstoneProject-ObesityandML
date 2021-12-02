@@ -71,7 +71,7 @@ After that, we implemented
 
 Results showed that XGBoost Model have the best accuracy compared to other models. 
 
-
+![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/Model%20evaluation.png)
 
 
 
