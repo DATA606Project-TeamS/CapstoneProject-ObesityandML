@@ -34,6 +34,7 @@ Limitations:Restricted number of subjects<br/>
 It did not employ newly collected data, thus making inferences limited<br/>
 Lack of other factors such as lifestyle habits<br/>
 
+![alt text](https://github.com/DATA606Project-TeamS/CapstoneProject-ObesityandML/blob/main/Output/Model%20evaluation.png)
 
 
 
